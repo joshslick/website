@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/activity15/static/css/main.fafc8537.css",
+    "main.js": "/activity15/static/js/main.3abec787.js",
+    "index.html": "/activity15/index.html",
+    "main.fafc8537.css.map": "/activity15/static/css/main.fafc8537.css.map",
+    "main.3abec787.js.map": "/activity15/static/js/main.3abec787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafc8537.css",
+    "static/js/main.3abec787.js"
+  ]
+}
